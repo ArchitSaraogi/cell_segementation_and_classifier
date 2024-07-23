@@ -1,0 +1,2 @@
+Segmentation_data_and_labels/Segmentation_Data_files filter=lfs diff=lfs merge=lfs -text
+Segmentation_data_and_labels/Segmentation_Data_files/unet-non-aug.h5 filter=lfs diff=lfs merge=lfs -text
